@@ -1,4 +1,4 @@
-# Welcome to my Profile!!!
+# Welcome to my GitHub!!!
 ### Hi there! 👋 
 I am Ishan Surana, an aspiring developer/cybersecurity professional💻, currently pursuing engineering in Manipal Institute of Technology. I am part of my institute's ethical hacking student project Cryptonite, and therefore, I frequently take part in CTFs with them.<br>
 ✨<b>NOTE</b>:- We are hosting our annual CTF competion [<b>niteCTF</b>](https://play.nitectf.live) from 17th December 2023!
